@@ -4,6 +4,8 @@ Python 3.9 o superior
 MySQL 8.0+ o MariaDB 10.5+
 Las dependencias listadas abajo
 
+se puede clonar con git clone https://github.com/restreporg/telecomsys2 desde un repositorio local 
+
 (con comando de instalacion en cmd)
 pip install mysql-connector-python tkcalendar Pillow openpyxl reportlab
 
